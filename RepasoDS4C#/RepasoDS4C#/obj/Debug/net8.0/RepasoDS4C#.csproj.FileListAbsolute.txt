@@ -1,0 +1,14 @@
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\bin\Debug\net8.0\RepasoDS4C#.exe
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\bin\Debug\net8.0\RepasoDS4C#.deps.json
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\bin\Debug\net8.0\RepasoDS4C#.runtimeconfig.json
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\bin\Debug\net8.0\RepasoDS4C#.dll
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\bin\Debug\net8.0\RepasoDS4C#.pdb
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\RepasoDS4C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\RepasoDS4C#.AssemblyInfoInputs.cache
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\RepasoDS4C#.AssemblyInfo.cs
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\RepasoDS4C#.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\RepasoDS4C#.dll
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\refint\RepasoDS4C#.dll
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\RepasoDS4C#.pdb
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\RepasoDS4C#.genruntimeconfig.cache
+D:\Proyectos visual\RepasoDS4C#\RepasoDS4C#\obj\Debug\net8.0\ref\RepasoDS4C#.dll

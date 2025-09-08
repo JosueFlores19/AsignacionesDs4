@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RepasoDS4C#/1.0.0": {
+        "runtime": {
+          "RepasoDS4C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepasoDS4C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
