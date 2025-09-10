@@ -1,0 +1,14 @@
+D:\Proyectos visual\DS4C#.3\DS4C#.3\bin\Debug\net8.0\DS4C#.3.exe
+D:\Proyectos visual\DS4C#.3\DS4C#.3\bin\Debug\net8.0\DS4C#.3.deps.json
+D:\Proyectos visual\DS4C#.3\DS4C#.3\bin\Debug\net8.0\DS4C#.3.runtimeconfig.json
+D:\Proyectos visual\DS4C#.3\DS4C#.3\bin\Debug\net8.0\DS4C#.3.dll
+D:\Proyectos visual\DS4C#.3\DS4C#.3\bin\Debug\net8.0\DS4C#.3.pdb
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\DS4C#.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\DS4C#.3.AssemblyInfoInputs.cache
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\DS4C#.3.AssemblyInfo.cs
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\DS4C#.3.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\DS4C#.3.dll
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\refint\DS4C#.3.dll
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\DS4C#.3.pdb
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\DS4C#.3.genruntimeconfig.cache
+D:\Proyectos visual\DS4C#.3\DS4C#.3\obj\Debug\net8.0\ref\DS4C#.3.dll
