@@ -1,0 +1,35 @@
+1. Une 'Bitín' con 'Explorador': BitínExplorador
+2. Junta oraciones por '.': En el vasto universo, Bitín es un explorador que busca ciudades luminosas |  En el mundo binario, ceros y unos forman un firewall |  La Nube cubre el cielo con su misterio, mientras Bitín viaja entre ceros y unos |  El viaje del Bitín es una aventura fascinante, llena de desafíos y descubrimientos que iluminan el camino hacia nuevas maravillas | 
+
+3. El cuento tiene 342 caracteres y 57 palabras.
+4. El protagonista es Bitín y busca una meta desconocida.
+5. La longitud del cuento es: 342
+6. Primera posición de 'mundo': 81
+7. Última posición de 'ceros': 196
+8. ¿Contiene 'Nube'? Sí
+9. ¿Empieza con 'En el vasto universo'? True
+10. ¿Termina con 'ceros y unos.'? False
+11. Extrae 'ciudades luminosas': ciudades luminosas
+12. Resto sin 15 primeros caracteres: verso, Bitín es un explorador que busca ciudades luminosas. En el mundo binario, ceros y unos forman un firewall. La Nube cubre el cielo con su misterio, mientras Bitín viaja entre ceros y unos. El viaje del Bitín es una aventura fascinante, llena de desafíos y descubrimientos que iluminan el camino hacia nuevas maravillas.
+
+13. Reemplaza 'Bitín' por 'ProgramaX': En el vasto universo, ProgramaX es un explorador que busca ciudades luminosas. En el mundo binario, ceros y unos forman un firewall. La Nube cubre el cielo con su misterio, mientras ProgramaX viaja entre ceros y unos. El viaje del ProgramaX es una aventura fascinante, llena de desafíos y descubrimientos que iluminan el camino hacia nuevas maravillas.
+
+14. Inserta '(IMPORTANTE)' después de 'firewall': En el vasto universo, Bitín es un explorador que busca ciudades luminosas. En el mundo binario, ceros y unos forman un firewall(IMPORTANTE). La Nube cubre el cielo con su misterio, mientras Bitín viaja entre ceros y unos. El viaje del Bitín es una aventura fascinante, llena de desafíos y descubrimientos que iluminan el camino hacia nuevas maravillas.
+
+15. 'Bitín' con * a la izq.: *****Bitín
+16. 'Nube' con - a la der.: Nube--------
+17. Extra ('  firewall  ') sin espacios: 'firewall'
+18. Solo inicio ('   Mundo binario'): 'Mundo binario'
+19. Solo final ('Bitín explorador   '): 'Bitín explorador'
+20. Primeras 10 palabras del cuento: En, el, vasto, universo,, Bitín, es, un, explorador, que, busca
+21. ¿'Nube' es igual a 'nube'? False
+22. Comparación alfabética ('Bitín', 'Firewall'): -1
+23. CompareTo entre 'Nube' y 'Cielo': 1
+24. ¿Cadena vacía es nula/vacía? True
+25. ¿Cadena con solo espacios es nula/espacios? True
+26. Cuento en minúsculas: en el vasto universo, bitín es un explorador que busca ciudades luminosas. en el mundo binario, ceros y unos forman un firewall. la nube cubre el cielo con su misterio, mientras bitín viaja entre ceros y unos. el viaje del bitín es una aventura fascinante, llena de desafíos y descubrimientos que iluminan el camino hacia nuevas maravillas.
+
+27. Cuento en mayúsculas: EN EL VASTO UNIVERSO, BITÍN ES UN EXPLORADOR QUE BUSCA CIUDADES LUMINOSAS. EN EL MUNDO BINARIO, CEROS Y UNOS FORMAN UN FIREWALL. LA NUBE CUBRE EL CIELO CON SU MISTERIO, MIENTRAS BITÍN VIAJA ENTRE CEROS Y UNOS. EL VIAJE DEL BITÍN ES UNA AVENTURA FASCINANTE, LLENA DE DESAFÍOS Y DESCUBRIMIENTOS QUE ILUMINAN EL CAMINO HACIA NUEVAS MARAVILLAS.
+
+28. 'NUBE' a minúsculas: nube
+29. 'bitín' a mayúsculas: BITÍN

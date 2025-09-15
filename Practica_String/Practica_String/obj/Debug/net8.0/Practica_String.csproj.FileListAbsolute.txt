@@ -1,0 +1,14 @@
+D:\Proyectos visual\Practica_String\Practica_String\bin\Debug\net8.0\Practica_String.exe
+D:\Proyectos visual\Practica_String\Practica_String\bin\Debug\net8.0\Practica_String.deps.json
+D:\Proyectos visual\Practica_String\Practica_String\bin\Debug\net8.0\Practica_String.runtimeconfig.json
+D:\Proyectos visual\Practica_String\Practica_String\bin\Debug\net8.0\Practica_String.dll
+D:\Proyectos visual\Practica_String\Practica_String\bin\Debug\net8.0\Practica_String.pdb
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\Practica_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\Practica_String.AssemblyInfoInputs.cache
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\Practica_String.AssemblyInfo.cs
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\Practica_String.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\Practica_String.dll
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\refint\Practica_String.dll
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\Practica_String.pdb
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\Practica_String.genruntimeconfig.cache
+D:\Proyectos visual\Practica_String\Practica_String\obj\Debug\net8.0\ref\Practica_String.dll
