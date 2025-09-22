@@ -1,0 +1,14 @@
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\bin\Debug\net8.0\Ds4C#POO11.exe
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\bin\Debug\net8.0\Ds4C#POO11.deps.json
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\bin\Debug\net8.0\Ds4C#POO11.runtimeconfig.json
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\bin\Debug\net8.0\Ds4C#POO11.dll
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\bin\Debug\net8.0\Ds4C#POO11.pdb
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\Ds4C#POO11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\Ds4C#POO11.AssemblyInfoInputs.cache
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\Ds4C#POO11.AssemblyInfo.cs
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\Ds4C#POO11.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\Ds4C#POO11.dll
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\refint\Ds4C#POO11.dll
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\Ds4C#POO11.pdb
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\Ds4C#POO11.genruntimeconfig.cache
+D:\Proyectos visual\Ds4C#POO11\Ds4C#POO11\obj\Debug\net8.0\ref\Ds4C#POO11.dll
