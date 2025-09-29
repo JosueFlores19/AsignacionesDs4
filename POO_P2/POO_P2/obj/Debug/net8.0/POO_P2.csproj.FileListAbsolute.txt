@@ -1,0 +1,28 @@
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.exe
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.deps.json
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.runtimeconfig.json
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.dll
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.pdb
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.AssemblyInfo.cs
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.dll
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\refint\POO_P2.dll
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.pdb
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.genruntimeconfig.cache
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\ref\POO_P2.dll
+D:\Proyectos visual\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.exe
+D:\Proyectos visual\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.deps.json
+D:\Proyectos visual\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.runtimeconfig.json
+D:\Proyectos visual\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.dll
+D:\Proyectos visual\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.pdb
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.AssemblyInfoInputs.cache
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.AssemblyInfo.cs
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.dll
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\refint\POO_P2.dll
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.pdb
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.genruntimeconfig.cache
+D:\Proyectos visual\POO_P2\POO_P2\obj\Debug\net8.0\ref\POO_P2.dll
