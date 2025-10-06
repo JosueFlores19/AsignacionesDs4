@@ -1,0 +1,14 @@
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\bin\Debug\net8.0\TiendaDeVideojuegosLinqs.exe
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\bin\Debug\net8.0\TiendaDeVideojuegosLinqs.deps.json
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\bin\Debug\net8.0\TiendaDeVideojuegosLinqs.runtimeconfig.json
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\bin\Debug\net8.0\TiendaDeVideojuegosLinqs.dll
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\bin\Debug\net8.0\TiendaDeVideojuegosLinqs.pdb
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\TiendaDeVideojuegosLinqs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\TiendaDeVideojuegosLinqs.AssemblyInfoInputs.cache
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\TiendaDeVideojuegosLinqs.AssemblyInfo.cs
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\TiendaDeVideojuegosLinqs.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\TiendaDeVideojuegosLinqs.dll
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\refint\TiendaDeVideojuegosLinqs.dll
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\TiendaDeVideojuegosLinqs.pdb
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\TiendaDeVideojuegosLinqs.genruntimeconfig.cache
+D:\Proyectos visual\TiendaDeVideojuegosLinqs\TiendaDeVideojuegosLinqs\obj\Debug\net8.0\ref\TiendaDeVideojuegosLinqs.dll
