@@ -1,0 +1,30 @@
+C:\Users\carol\source\repos\linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.exe
+C:\Users\carol\source\repos\linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.deps.json
+C:\Users\carol\source\repos\linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.runtimeconfig.json
+C:\Users\carol\source\repos\linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.dll
+C:\Users\carol\source\repos\linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.pdb
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.AssemblyInfo.cs
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.dll
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\refint\linq_p1.dll
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.pdb
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.genruntimeconfig.cache
+C:\Users\carol\source\repos\linq_p1\linq_p1\obj\Debug\net8.0\ref\linq_p1.dll
+C:\Users\carol\source\repos\linq_p1\linq_p1\bin\Debug\net8.0\books.json
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.exe
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\bin\Debug\net8.0\books.json
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.deps.json
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.runtimeconfig.json
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.dll
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\bin\Debug\net8.0\linq_p1.pdb
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.AssemblyInfoInputs.cache
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.AssemblyInfo.cs
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.dll
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\refint\linq_p1.dll
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.pdb
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\linq_p1.genruntimeconfig.cache
+D:\Proyectos visual\DS4C#_linq_p1\linq_p1\obj\Debug\net8.0\ref\linq_p1.dll
